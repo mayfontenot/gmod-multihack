@@ -1,5 +1,5 @@
 # Garry's Mod MultiHack
-A Garry's Mod MultiHack
+A Garry's Mod MultiHack.
 
 ## Features
 Optimized code, anti screengrab, aimbot (silent), hitbox multipoint, triggerbot (can be standalone or with aimbot), autoreload, wallhack with chams, ESP, crosshair, freecam, autohop, autostrafe (silent), health hack, armor hack, and menu
