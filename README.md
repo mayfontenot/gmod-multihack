@@ -1,7 +1,11 @@
-# Garry's Mod Multi Hack
-features: optimized code, anti screengrab, aimbot (silent), hitbox multipoint, triggerbot (can be standalone or with aimbot), autoreload, wallhack with chams, ESP, crosshair, freecam, autohop, autostrafe (silent), and menu<br/><br/>
-how to use:<br/>
-download meiware.lua to your /garrysmod/lua/ folder<br/>
-type "lua_openscript_cl meiware.lua" in console(requires sv_allowcslua)<br/><br/>
-aim/trigger key: Mouse5<br/>
-menu key: Context Menu key(default: C)<br/><br/>
+# Description
+A Garry's Mod MultiHack developed by Mayware.net
+
+## Features
+Optimized code, anti screengrab, aimbot (silent), hitbox multipoint, triggerbot (can be standalone or with aimbot), autoreload, wallhack with chams, ESP, crosshair, freecam, autohop, autostrafe (silent), health hack, armor hack, and menu
+
+## Installation
+1. Download mayware-multihack.lua to your /garrysmod/lua/ folder
+2. Type "lua_openscript_cl mayware-multihack.lua" in console(requires sv_allowcslua)
+3. To open the menu, press the Context Menu key (default 'C')
+4. Press Mouse5 for aimbot/triggerbot
