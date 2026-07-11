@@ -459,7 +459,7 @@ local function Menu()
 	surface.SetFont("Default")
 
 	local mousex, mousey = input.GetCursorPos()
-	local window_title = "Meiware " .. build_info
+	local window_title = "Mayware MultiHack " .. build_info
 	local window_size = Vector(600, 400, 0)
 	local window_pos = Vector((ScrW() / 2) - (window_size.x / 2), (ScrH() / 2) - (window_size.y / 2), 0)
 	local window_index = {
