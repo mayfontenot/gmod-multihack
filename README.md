@@ -1,4 +1,4 @@
-# Description
+# Garry's Mod MultiHack
 A Garry's Mod MultiHack
 
 ## Features
